@@ -1,6 +1,6 @@
 # Do commodity price moves lead industry returns?
 
-Course project for APM_5FI15_AE "ML for Trading" (ENSAE Paris, M2 SFA), Selim Lali, November 2026.
+Course project for APM_5FI15_AE "ML for Trading" (ENSAE Paris, M2 SFA), Selim-Antoine Lali and Quentin Borne, October 2026.
 
 Work in progress: the notebook currently loads the data, the analysis comes next.
 
