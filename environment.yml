@@ -1,0 +1,31 @@
+# Conda environment for the course project:  conda env create -f environment.yml
+name: ml_trading
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - python=3.12
+  - numpy<2
+  - pandas
+  - pyarrow
+  - scikit-learn
+  - matplotlib-base
+  - joblib
+  - requests
+  - beautifulsoup4
+  - tqdm
+  - openpyxl
+  - statsmodels
+  - scipy
+  - pytest
+  - nbformat
+  - nbconvert
+  - nbclient
+  - ipykernel
+  - ipywidgets
+  - jupyterlab
+  - lightgbm
+  - cvxpy<1.6
+  - pip
+  - pip:
+      - yfinance
